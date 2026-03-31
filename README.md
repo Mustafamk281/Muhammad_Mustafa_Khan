@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝ 
 ```
 
-### 👋 Hi, I'm **Muhammad Mustafa Khan**
+### Hi, I'm **Muhammad Mustafa Khan**
 *CS Student @ FAST-NUCES Lahore · Aspiring AI/ML Engineer · Full-Stack Developer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
@@ -88,7 +88,6 @@ me.say_hi()
 | [🏥 MedApp](https://github.com/) | Healthcare web platform with ML-powered Urgency & Diabetes predictors | Python · Django · ML · REST API |
 | [🎬 Cinemax](https://github.com/) | Full-stack movie booking system with JWT auth & real-time seat selection | React · Express · SQL · JWT |
 | [📘 DSA-Solutions](https://github.com/) | Curated C++ solutions to 100+ DSA problems with complexity analysis | C++ · Algorithms |
-| [🤖 ML-Projects](https://github.com/) | Collection of machine learning experiments and notebooks | Python · scikit-learn · pandas |
 | [💻 FB-Console](https://github.com/) | Console-based social network simulation using advanced OOP in C++ | C++ · OOP |
 | [🎮 EduTabletGame](https://github.com/) | Interactive educational game for children built with SFML | C++ · SFML |
 | [🌐 Portfolio](https://github.com/) | Personal portfolio website | React · CSS |
